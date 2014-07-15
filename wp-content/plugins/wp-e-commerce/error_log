@@ -1,0 +1,6 @@
+[16-Aug-2013 21:08:11] PHP Fatal error:  Call to undefined function  add_action() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wp-shopping-cart.php on line 24
+[05-Dec-2013 06:59:51] PHP Fatal error:  Call to undefined function  add_action() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wp-shopping-cart.php on line 24
+[30-Jun-2014 06:16:07 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wp-shopping-cart.php on line 24
+[30-Jun-2014 18:37:28 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wp-shopping-cart.php on line 24
+[13-Jul-2014 08:10:51 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wp-shopping-cart.php on line 24
+[13-Jul-2014 18:18:36 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wp-shopping-cart.php on line 24

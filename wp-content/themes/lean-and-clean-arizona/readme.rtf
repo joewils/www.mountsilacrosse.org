@@ -1,0 +1,103 @@
+{\rtf1\ansi\ansicpg1252\cocoartf949\cocoasubrtf330
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww12020\viewh13200\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\f0\b\fs24 \cf0 INTRO
+\b0 \
+Thanks for using my "Lean and Clean" WordPress theme series.  I did my best to build this theme so that anyone could just plug it in and use it.  My goal was to make this theme with a clean, minimalist design.  In the Stylesheet I did my best to leave comments on what changes what and what styles control certain aspects of the side design.  \
+\
+All I ask is that you kindly leave the link to my blog to give me credit for the design in the footer.  \
+
+\b \
+INSTALLATION\
+
+\b0 Upload the \
+"Arizona" folder to your wp-content/themes directory - activate the theme and you should be all set.\
+\
+
+\b CHANGING COLORS:\
+
+\b0 The one thing that most poeple will want to do is to change the colors of the links.  I made this as easy as I could.  There are only three lines of code that you need to change.  \
+\
+Find: \
+\
+Line: 39 - a \{ color: #cc3300; text-decoration:none; \}\
+Line 165 - border-top: 2px solid #cc3300;\
+Line 182 - border-top: 2px solid #cc3300;\
+\
+In each of these, change the "#cc3300" to the color number that you want.  This will change all the colors of the links as well as the navigation bar colors. \
+\
+If you are unfamiliar with numbers for colors, here are a few options:\
+\
+Blue - #0000FF\
+Teal - #3399CC\
+Deep Red - #660000 \
+Red - #FF0000\
+Orange - #CC3300\
+Brown - #666633\
+Bright Blue - #0099FF\
+Pink: #FF33FF\
+\
+\
+
+\b WIDGETS.\
+
+\b0 This theme is fully widget compatible.  I have split the widget sections into three sidebars:\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\i \cf0 Sidebar1
+\i0  - this is the section directly below the main navigation that spans the two columns.  This is a great spot for a "about me" paragraph.  \
+\
+
+\i Sidebar2
+\i0  - this is the left of the two columns in the sidebar.\
+\
+
+\i Sidebar3
+\i0  - this is the right of the three columns in the sidebar.\
+\
+Please note that the widgets are styled by the ".widgets" section of the style.css file. \
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\b \cf0 HEADER\
+
+\b0 The theme comes with a dark grey header image (header.jpg) that you will find in the "images" folder.  I have also included a PNG file for those who might need that.  If you want to add a custom image or header, just update the .jpg file and replace the current one and you will be all set. \
+\
+
+\b ARCHIVES\
+
+\b0 You'll notice that there is a template file called "cleanarchives.php" in the template folder.  I love the Clean Archives PLugin and you can find the most recent version here: http://wordpress.org/extend/plugins/clean-archives-reloaded/).  All you have to do to get this to work is to create a page called "Archives" and in the "Page Template" section choose the template called "Clean Archives."  
+\b \
+\
+THE NAV\
+
+\b0 I set up the navigation to pull the list of your pages.  I built the theme to format well if you have about 5 pages with semi-short titles.  If you are like me and you have about 20 pages but you only want 4-5 to show up in the nav you can do the following: \
+\
+1. Open up the file "sidebar.php"\
+\
+2. Find the following lines of code (lines 5-6):\
+\
+<li><a <?php if (is_page('home')) echo('class="current" '); ?>href="<?php bloginfo('url'); ?>/">Home</a></li>\
+		<?php wp_list_pages('sort_column=menu_order&depth=1&title_li='); ?>\
+\
+3. Replace them with your the pages that you want to show.  Here is a format to follow:\
+\
+		<li><a href="<?php bloginfo('url'); ?>/">Home</a></li>\
+		<li><a href="<?php bloginfo('url'); ?>/page-title/">Page Title</a></li>\
+		<li><a href="<?php bloginfo('url'); ?>/page-title">Page Title</a></li>\
+		<li><a href="<?php bloginfo('url'); ?>/page-title">Page Title</a></li>\
+\
+4. Save the file and upload it to your server.  Be sure not to delete the <ul id="nav">  and the </ul> following these lines of code. \
+\
+\
+Thanks!  If you have questions about the theme I'll do my best to answer them.  But I can't guarantee that I can get to every question.  \
+\
+Todd Hiestand\
+www.toddhiestand.com\
+\
+\
+}

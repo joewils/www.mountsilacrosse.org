@@ -1,0 +1,2 @@
+[24-May-2014 15:09:53 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wpsc-admin/db-upgrades/upgrade.php on line 79
+[01-Jun-2014 15:45:44 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wpsc-admin/db-upgrades/upgrade.php on line 79

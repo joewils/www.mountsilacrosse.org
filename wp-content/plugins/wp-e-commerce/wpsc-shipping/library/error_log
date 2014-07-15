@@ -1,0 +1,2 @@
+[12-May-2014 11:27:25 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wpsc-shipping/library/shipwire_functions.php on line 811
+[20-May-2014 21:45:35 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wpsc-shipping/library/shipwire_functions.php on line 811

@@ -1,0 +1,2 @@
+[29-May-2013 01:38:24] PHP Fatal error:  Call to undefined function  get_header() in /home1/evasheie/public_html/mountsilacrosse/wp-content/themes/twentyten/404.php on line 10
+[01-Jun-2014 13:14:39 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/themes/twentyten/search.php on line 10

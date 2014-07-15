@@ -1,0 +1,6 @@
+[16-Aug-2013 12:42:47] PHP Fatal error:  Call to undefined function  get_header() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/themes/twentyeleven/tag.php on line 10
+[27-Aug-2013 02:48:56] PHP Fatal error:  Call to undefined function  get_header() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/themes/twentyeleven/index.php on line 15
+[02-Sep-2013 17:33:00] PHP Fatal error:  Call to undefined function  get_header() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/themes/twentyeleven/404.php on line 10
+[24-May-2014 12:05:48 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/themes/twentyeleven/index.php on line 15
+[29-May-2014 18:25:02 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/themes/twentyeleven/tag.php on line 10
+[30-May-2014 15:26:57 America/Denver] PHP Fatal error:  Call to undefined function get_header() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/themes/twentyeleven/404.php on line 10

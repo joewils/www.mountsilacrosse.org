@@ -1,0 +1,9 @@
+[29-Apr-2013 22:12:39] PHP Fatal error:  Call to undefined function  add_filter() in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wpsc-core/js/tinymce3/tinymce.php on line 49
+[29-Apr-2013 22:12:40] PHP Fatal error:  Call to undefined function  get_terms() in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wpsc-core/js/tinymce3/window.php on line 3
+[16-Aug-2013 21:10:42] PHP Fatal error:  Call to undefined function  add_filter() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wpsc-core/js/tinymce3/tinymce.php on line 49
+[16-Aug-2013 21:10:45] PHP Fatal error:  Call to undefined function  get_terms() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wpsc-core/js/tinymce3/window.php on line 3
+[16-Nov-2013 20:29:31] PHP Fatal error:  Call to undefined function  add_filter() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wpsc-core/js/tinymce3/tinymce.php on line 49
+[16-Nov-2013 20:29:32] PHP Fatal error:  Call to undefined function  get_terms() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wpsc-core/js/tinymce3/window.php on line 3
+[30-Jun-2014 10:48:22 America/Denver] PHP Fatal error:  Call to undefined function get_terms() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wpsc-core/js/tinymce3/window.php on line 3
+[30-Jun-2014 11:18:22 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wpsc-core/js/tinymce3/tinymce.php on line 49
+[06-Jul-2014 17:43:13 America/Denver] PHP Fatal error:  Call to undefined function add_filter() in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/wp-e-commerce/wpsc-core/js/tinymce3/tinymce.php on line 49

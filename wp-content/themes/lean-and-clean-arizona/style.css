@@ -1,0 +1,446 @@
+/*  
+Theme Name: Lean and Clean: Arizona
+Theme URI: http://www.toddhiestand/wordpress
+Description: Arizona theme Created by Todd hiestand
+Version: 2.01
+Author: Todd Hiestand of 343design
+Author URI: http://www.toddhiestand.com/
+Tags:clean,three-column,fixed width,widget ready
+*/
+
+ /* BROWSER RESETS  .................... */
+
+body {
+	margin:0;padding:0;
+	font: 12px/133% Helvetica, Arial, Verdana;
+	color: #000;
+	background: #333 ;
+}
+
+h1, h2, h3, h4, h5, h6, p, pre, blockquote, ol, dl, address{ 
+	margin: .7em 0;
+	padding: 0; 
+	line-height:163%;
+}
+
+h1, h2, h3, h4 {
+	letter-spacing: -1px;
+	color: #333;
+	font-family: "Helvetica Neue", Helvetica, Arial, Verdana;
+}
+
+h1 { font-size:1.8em;}
+h2 { font-size: 1.6em; }
+h3 { font-size: 1.4em; }
+h3 a { font-size: 1.2em; }
+h4 { font-size:1em; }
+
+a { color: #cc3300; text-decoration:none; }
+
+a:hover { color: #000; text-decoration:none; }
+
+ul, ol { margin: 0px; padding: 10px 0 0 20px; }
+
+li, dd { margin-left: 0em; }
+
+form label{ cursor: pointer; }
+
+fieldset{ border: none; }
+
+blockquote {
+	padding: 2px 10px; margin: 5px 30px;
+	border-left: 1px dotted #ccc;
+}
+
+#container {
+	width:  940px;
+	padding: 0px;margin: 0 auto;
+	border-right: 5px solid #ccc;
+	border-left: 5px solid #ccc;
+	background: #fff;
+	clear: both;
+}
+
+/* MAIN NAVIGATION BAR ....................................... */
+
+#nav ul {
+	width: 900px;
+	margin: 20px auto 0px auto;
+	padding: 0px;
+	list-style: none;
+	font-weight: bold;
+	text-transform: capitalize;
+	clear: both;
+	text-align: right;
+}
+
+#nav ul:after {
+	content: "."; display: block;height: 0; 
+	clear: both; visibility: hidden;
+}
+
+#nav ul li {
+	text-align: right;
+	float: left;
+	display: inline;
+	margin: 0 3px 0px 3px ;padding: 0;
+	border-top: 3px solid #fff;
+}	
+
+#nav ul li a {
+	display:block;
+	padding: 10px 20px; margin: 0px;
+	background: #e0e0e0;
+}
+
+#nav ul li a:hover {
+	color: #fff;
+	background: #cc3300;
+}
+
+li.current_page_item a {
+	background: #cc3300;
+	color: #000;
+}
+
+#nav ul li ul {
+	position: absolute;
+	margin:0;
+	padding:0;
+	left: -999em;
+	width:auto;
+}
+
+#nav ul li ul li {
+	display:block;
+	float:none;
+	text-align:left;
+	margin:0;padding:0;
+}
+
+#nav ul li ul li a {
+	margin:0;
+	display:block;
+	width: 200px;
+}
+
+#nav ul li:hover ul {
+	left: auto;
+}
+
+ /* HEADER FORMATTING ....................................... */
+
+#header {
+	clear: both;
+	height: 168px;
+	padding: 32px 20px 0px 30px ;
+	margin: 0px 0 ;
+	border-bottom: 5px solid #ccc;
+	border-top: 5px solid #ccc;
+	background: url(images/header.jpg) no-repeat;
+}
+
+#header h2, #header h1 { color: #000; padding: 0;margin: 0 ; line-height: 140%;}
+#header h1 a { font-size: 1.2em; color: #fff; margin: 0 ;}
+#header h2 {font-size: 1.3em;}
+
+/* MAIN CONTENT FORMATTING .......................................*/
+
+#lowercontent { float: left; width: 100%;  }
+
+#blog {
+	width: 580px;
+	float: left;
+	margin: 10px 0 20px 10px ;
+	padding: 0;
+	font-size: 1.1em;
+}
+
+/* the blog is formatted in an unordered list, each post is an li .... */
+#blog ul {
+	list-style: none;
+}
+
+#blog ul li {
+	padding: 0px 0px;
+	margin: 10px 0px 20px 0 ;
+}
+
+/* styles for unordered lists in posts .... */
+#blog ul li ul {
+	margin: 0;padding: 0 0 0 20px;
+}
+
+#blog ul li ul li {
+	border: 0;padding: 0;
+	margin: 10px 40px;
+	list-style: disc;
+}
+
+/* styles for ordered lists in posts .... */
+#blog ul li ol {
+	margin: 0;padding: 0 0 0 20px;
+}
+
+#blog ul li ol li {
+	border: 0;padding: 0;
+	margin: 10px 40px;
+}
+
+#blog h2 {
+	padding: 5px 0px;margin: 0;line-height: 130%;
+	background: #fff;
+	border-top: 2px solid #000;
+}
+
+h1.postitle {
+	font-size: 1.2em;
+	margin: 10px 0;padding: 10px;
+	background: #cc3300;
+	color: #fff;
+}
+
+.archivepost {
+	margin: 0 0 20px 0 ;
+}
+
+/* styles for date and comment paragraphs in posts .... */
+.meta {
+	font-size: 1em;
+	padding: 7px 0px 5px 0px ;margin: 0;
+	background: #fff;
+	border-top: 1px dotted #ccc;
+	border-bottom: 1px dotted #ccc;
+	font-weight: bold;
+}
+
+.tagmeta {
+	font-size: .8em;
+float: right;	padding: 7px 15px 5px 0 ;margin: 0 0 10px 0;
+	background: #fff;
+	color: #666;
+	border-bottom: 1px dotted #ccc;
+	font-style: italic;
+}
+
+ /* BEGIN FORMATTING FOR SIDEBAR ....................................... */
+
+#right {
+	width: 285px;
+	float: right;
+	margin: 20px 0 20px 35px; padding: 0;
+	font-size: 1em;
+}
+
+#right h3 {
+	padding: 0;	margin: 0 0 10px 0;
+}
+
+ 
+ /* FORMATTING FOR THE SECTIONS ON THE SIDEBARS  ....................................... */
+
+#spandiv {
+	clear: both;
+	margin: 10px 0 0 0;
+}
+
+.widget {
+	padding: 10px 10px;	margin: 10px 0;
+	background: #e0e0e0;	
+	border-top: 5px solid #f0f0f0;
+}
+
+.sidebardiv {
+	padding: 10px 10px;	margin: 20px 0;
+	background: #e0e0e0;	
+	border-top: 5px solid #f0f0f0;
+	clear: both;
+}
+
+ /* FORMATTING FOR LISTS IN THE TWO SIDEBARS ....................................... */
+
+.sidebardiv ul, .widget ul {
+	list-style: none;
+	margin: 0; padding: 0px 0 0px 0px;
+}
+
+.sidebardiv ul li, .widget ul li {
+	padding: 0;margin: 10px 0 ;
+}
+
+.sidebardiv ul li ul, .widget ul li ul {
+	list-style: circle;
+	padding: 0 0 0 15px;
+}
+
+.sidebardiv ul ul li, .widget ul li ul {
+	padding: 0;margin: 0;
+}
+
+ /* FORMATTING FOR LEFT SIDEBAR ....................................... */
+
+#right1 {
+	width: 185px;
+	margin: 0 10px 0 0;padding: 0px;
+	float: left;
+}
+
+ /* FORMATTING FOR LEFT SIDEBAR ....................................... */
+
+#right2 {
+	width:185px;
+	float: left;
+	margin: 0;padding: 0;
+}
+
+#footer {
+	width: 880px;
+	padding: 10px 30px; margin: 0;
+	border-top: 5px solid #ccc;
+	clear: both;
+}
+
+ /* IMAGES FORMATTING ....................................... */
+
+img { padding: 5px; margin: 5px; background: #e0e0e0; }
+
+a img {	border: none; }
+
+a:hover img { padding: 5px; margin: 5px; background: #ccc; }
+
+.noborder { background: none; }
+
+.noborder a:hover { border:none; background-color: #fff; }
+
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.alignleft {
+	float: left;
+}
+
+.alignright {
+	float: right;
+}
+
+
+/*** FLICKR FORMATTING CONTROL ****/
+
+#flickrrss.widget.widget_flickrRSS  { 
+	list-style: none;  
+	padding: 10px 10px 10px 10px; margin: 0px; 
+}
+
+#flickrrss.widget.widget_flickrRSS li { 
+	display: inline; 
+	padding: 0; margin: 0;
+} 
+
+#flickrrss.widget.widget_flickrRSS a img { 
+	padding: 5px; 
+	margin:3px 4px 3px 0 ;
+	background-color: #f0f0f0;
+	border: 1px solid #ccc;
+}
+
+#flickrrss.widget.widget_flickrRSS a:hover img { 
+	padding: 5px; 
+	margin:3px 4px 3px 0 ;
+	background-color: #cc3300;
+	border: 1px solid #ccc;
+}
+
+#flickrrss.widget.widget_flickrRSS a:hover { 
+	border-top: none;
+	border-bottom: none;
+}
+
+
+/* COMMENTS FORMATTING .......................................*/
+
+#comments {
+	border-top: 5px solid #000;
+}
+
+#comments h3 {
+	font-size: 1.6em;
+	margin: 0px 0;padding: 0px;
+	background: #fff;
+	color: #000;
+}
+
+p.avatar {margin: 0;padding: 0;float: right;}
+
+p.avatar img {margin: 7px 7px 7px 0;padding: 2px;}
+
+#comments ul li {
+	border: none;
+	padding: 10px;
+	background: #f7f7f7;
+	border: 1px solid #ccc
+}
+
+ul.commentlist {
+	padding: 0;margin: 10px 0 ;
+}
+
+.commenttext {
+	width: 290px;
+}
+
+.commentmeta {
+	font-weight: bold;
+}
+
+p.commentdate {
+	font-size: .7em;
+	padding: 10px 0 ;margin: 0;
+}
+
+.commentnumber {
+	padding: 5px;
+	margin: -25px 0px;
+	padding:10px;
+	float:right;
+	color: #ccc;
+	font-size: 35pt;
+}
+
+#reply {
+	margin:30px 0 20px 0;
+	padding: 0px;
+	border-top: 5px solid #000;	
+}
+
+textarea#comment {
+	font-size:13px;
+}
+
+
+.wp-caption {
+	border: 1px solid #ddd;
+	text-align: center;
+	background-color: #f3f3f3;
+	padding-top: 4px;
+	margin: 10px;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.wp-caption img {
+	margin: 0;
+	padding: 0;
+	border: 0 none;
+}
+
+.wp-caption-dd {
+	font-size: 11px;
+	line-height: 17px;
+	padding: 0 4px 5px;
+	margin: 0;
+}

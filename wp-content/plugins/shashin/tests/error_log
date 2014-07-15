@@ -1,0 +1,98 @@
+[08-Apr-2013 16:03:51] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[08-Apr-2013 18:20:20] PHP Fatal error:  Class 'TestSuite' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[08-Apr-2013 22:30:20] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[09-Apr-2013 03:21:52] PHP Fatal error:  Class 'TestSuite' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[09-Apr-2013 06:46:41] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[09-Apr-2013 11:25:50] PHP Fatal error:  Class 'TestSuite' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[10-Apr-2013 00:34:20] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[11-Apr-2013 15:12:40] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[11-Apr-2013 17:03:16] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[11-Apr-2013 17:34:01] PHP Fatal error:  Class 'TestSuite' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[12-Apr-2013 05:03:05] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[12-Apr-2013 14:24:00] PHP Fatal error:  Class 'TestSuite' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[14-Apr-2013 16:31:14] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[14-Apr-2013 20:46:13] PHP Fatal error:  Class 'TestSuite' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[14-Apr-2013 23:12:29] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[15-Apr-2013 03:33:52] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[15-Apr-2013 06:36:32] PHP Fatal error:  Class 'TestSuite' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[15-Apr-2013 11:11:57] PHP Fatal error:  Class 'TestSuite' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[15-Apr-2013 13:02:36] PHP Fatal error:  Class 'TestSuite' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[15-Apr-2013 13:31:48] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[15-Apr-2013 23:42:54] PHP Fatal error:  Class 'TestSuite' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[16-Apr-2013 15:10:00] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[17-Apr-2013 00:01:13] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[17-Apr-2013 10:06:57] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[15-Jun-2013 16:06:56] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[15-Jun-2013 18:09:37] PHP Fatal error:  Class 'TestSuite' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[16-Jun-2013 00:15:51] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[16-Jun-2013 03:16:06] PHP Fatal error:  Class 'TestSuite' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[16-Jun-2013 07:46:53] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[16-Jun-2013 11:32:59] PHP Fatal error:  Class 'TestSuite' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[16-Jun-2013 13:50:11] PHP Fatal error:  Class 'UnitTestCase' not found in /home1/evasheie/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[25-Jul-2013 19:28:39] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[25-Jul-2013 19:46:55] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[26-Jul-2013 01:29:59] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[26-Jul-2013 01:51:44] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[26-Jul-2013 08:16:50] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[26-Jul-2013 09:10:51] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[26-Jul-2013 12:19:21] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[26-Jul-2013 16:30:43] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[26-Jul-2013 19:38:40] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[12-Oct-2013 04:19:46] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[12-Oct-2013 04:36:48] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[12-Oct-2013 11:03:05] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[12-Oct-2013 11:30:45] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[12-Oct-2013 16:58:02] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[12-Oct-2013 17:20:22] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[12-Oct-2013 23:32:14] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[12-Oct-2013 23:52:26] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[13-Oct-2013 05:31:07] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[13-Oct-2013 07:10:42] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[24-Dec-2013 02:24:12] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[24-Dec-2013 02:53:12] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[24-Dec-2013 10:08:53] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[24-Dec-2013 10:36:28] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[24-Dec-2013 15:59:11] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[24-Dec-2013 16:29:53] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[24-Dec-2013 19:15:40] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[24-Dec-2013 22:14:46] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[24-Dec-2013 22:46:03] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[25-Dec-2013 04:55:09] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[08-Feb-2014 19:34:56 America/Denver] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[08-Feb-2014 19:36:08 America/Denver] PHP Notice:  Use of undefined constant WP_PLUGIN_DIR - assumed 'WP_PLUGIN_DIR' in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/lib/ShashinAutoLoader.php on line 25
+[08-Feb-2014 19:36:08 America/Denver] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[09-Feb-2014 03:39:59 America/Denver] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[09-Feb-2014 04:11:42 America/Denver] PHP Notice:  Use of undefined constant WP_PLUGIN_DIR - assumed 'WP_PLUGIN_DIR' in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/lib/ShashinAutoLoader.php on line 25
+[09-Feb-2014 04:11:42 America/Denver] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[09-Feb-2014 10:39:40 America/Denver] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[09-Feb-2014 11:02:47 America/Denver] PHP Notice:  Use of undefined constant WP_PLUGIN_DIR - assumed 'WP_PLUGIN_DIR' in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/lib/ShashinAutoLoader.php on line 25
+[09-Feb-2014 11:02:47 America/Denver] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[09-Feb-2014 16:32:06 America/Denver] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[09-Feb-2014 16:52:59 America/Denver] PHP Notice:  Use of undefined constant WP_PLUGIN_DIR - assumed 'WP_PLUGIN_DIR' in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/lib/ShashinAutoLoader.php on line 25
+[09-Feb-2014 16:52:59 America/Denver] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[05-Apr-2014 07:33:52 America/Denver] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[05-Apr-2014 15:42:23 America/Denver] PHP Notice:  Use of undefined constant WP_PLUGIN_DIR - assumed 'WP_PLUGIN_DIR' in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/lib/ShashinAutoLoader.php on line 25
+[05-Apr-2014 15:42:23 America/Denver] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[05-Apr-2014 23:02:59 America/Denver] PHP Notice:  Use of undefined constant WP_PLUGIN_DIR - assumed 'WP_PLUGIN_DIR' in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/lib/ShashinAutoLoader.php on line 25
+[05-Apr-2014 23:02:59 America/Denver] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[05-Apr-2014 23:19:37 America/Denver] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[06-Apr-2014 06:20:50 America/Denver] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[06-Apr-2014 06:53:57 America/Denver] PHP Notice:  Use of undefined constant WP_PLUGIN_DIR - assumed 'WP_PLUGIN_DIR' in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/lib/ShashinAutoLoader.php on line 25
+[06-Apr-2014 06:53:57 America/Denver] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[06-Apr-2014 13:40:42 America/Denver] PHP Notice:  Use of undefined constant WP_PLUGIN_DIR - assumed 'WP_PLUGIN_DIR' in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/lib/ShashinAutoLoader.php on line 25
+[06-Apr-2014 13:40:42 America/Denver] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[31-May-2014 07:41:39 America/Denver] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[31-May-2014 08:14:18 America/Denver] PHP Notice:  Use of undefined constant WP_PLUGIN_DIR - assumed 'WP_PLUGIN_DIR' in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/lib/ShashinAutoLoader.php on line 25
+[31-May-2014 08:14:18 America/Denver] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[31-May-2014 15:19:57 America/Denver] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[31-May-2014 15:38:34 America/Denver] PHP Notice:  Use of undefined constant WP_PLUGIN_DIR - assumed 'WP_PLUGIN_DIR' in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/lib/ShashinAutoLoader.php on line 25
+[31-May-2014 15:38:34 America/Denver] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[31-May-2014 17:20:18 America/Denver] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[31-May-2014 17:26:08 America/Denver] PHP Notice:  Use of undefined constant WP_PLUGIN_DIR - assumed 'WP_PLUGIN_DIR' in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/lib/ShashinAutoLoader.php on line 25
+[31-May-2014 17:26:08 America/Denver] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[31-May-2014 23:26:26 America/Denver] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[31-May-2014 23:48:29 America/Denver] PHP Notice:  Use of undefined constant WP_PLUGIN_DIR - assumed 'WP_PLUGIN_DIR' in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/lib/ShashinAutoLoader.php on line 25
+[31-May-2014 23:48:29 America/Denver] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
+[01-Jun-2014 18:11:27 America/Denver] PHP Fatal error:  Class 'UnitTestCase' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/IntegrationShashinWp.php on line 3
+[01-Jun-2014 19:02:15 America/Denver] PHP Notice:  Use of undefined constant WP_PLUGIN_DIR - assumed 'WP_PLUGIN_DIR' in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/lib/ShashinAutoLoader.php on line 25
+[01-Jun-2014 19:02:15 America/Denver] PHP Fatal error:  Class 'TestSuite' not found in /home2/mtsilacr/public_html/mountsilacrosse/wp-content/plugins/shashin/tests/ShashinUnitTestsSuite.php on line 13
